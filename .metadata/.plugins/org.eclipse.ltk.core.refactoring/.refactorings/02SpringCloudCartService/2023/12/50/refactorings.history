@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.app.affan.entity&apos; to &apos;03SpringCloudOrderService/src/main/java/com.app.affan.consumer&apos;&#x0D;&#x0A;- Original project: &apos;02SpringCloudCartService&apos;&#x0D;&#x0A;- Destination element: &apos;03SpringCloudOrderService/src/main/java/com.app.affan.consumer&apos;&#x0D;&#x0A;- Original element: &apos;02SpringCloudCartService/src/main/java/com.app.affan.entity&apos;" description="Copy package" destination="=03SpringCloudOrderService/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.affan.consumer" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.affan.entity" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1702272112946" version="1.0"/>
+</session>

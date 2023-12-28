@@ -1,0 +1,8 @@
+package com.app.affan.entity;
+
+import lombok.Data;
+
+@Data
+public class Student {
+
+}

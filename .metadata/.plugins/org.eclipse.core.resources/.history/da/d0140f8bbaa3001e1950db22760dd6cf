@@ -1,0 +1,7 @@
+#Server details
+server.port=9090
+
+#Database connection details
+spring.data.mongodb.host=
+spring.data.mongodb.database=
+spring.data.mongodb.port=

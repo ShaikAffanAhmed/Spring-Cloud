@@ -1,0 +1,12 @@
+#Server details
+server.port=9090
+
+#Database connection details
+#spring.data.mongodb.host=
+#spring.data.mongodb.database=
+#spring.data.mongodb.port=27017
+#spring.data.mongodb.username=
+#spring.data.mongodb.password=
+
+spring.data.mongodb.database=test
+spring.data.mongodb.uri=mongodb+srv://shaikaffanahmed1998:@cluster0.ywcjmb6.mongodb.net/?retryWrites=true&w=majority

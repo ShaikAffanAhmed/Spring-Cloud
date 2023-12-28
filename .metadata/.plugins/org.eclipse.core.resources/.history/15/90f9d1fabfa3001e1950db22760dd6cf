@@ -1,0 +1,5 @@
+package com.app.affan.repo;
+
+public interface StudentRepository extends JPA{
+
+}

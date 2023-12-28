@@ -1,0 +1,6 @@
+package com.app.affan.entity;
+
+@
+public class Student {
+
+}

@@ -1,0 +1,13 @@
+#PORT
+#server.port=9091
+#server.port=9092
+server.port=9094
+
+#Service ID (Application Name)
+spring.application.name=ORDER-SERVICE
+
+#Link with config Server
+spring.config.import=optional:configserver:http://localhost:8888
+
+
+

@@ -1,0 +1,5 @@
+package com.app.affan.config;
+
+public class AppConfig {
+
+}

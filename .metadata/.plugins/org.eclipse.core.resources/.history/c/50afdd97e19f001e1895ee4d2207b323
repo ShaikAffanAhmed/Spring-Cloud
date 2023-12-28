@@ -1,0 +1,14 @@
+eureka:
+  client:
+    service-url:
+      defaultzone: http://localhost:8761/eureka
+server:
+  port: 80
+spring:
+  application:
+    name: API-GATEWAY
+  cloud:
+    gateway:
+      routes:
+      - id : cartId
+      

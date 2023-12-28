@@ -1,0 +1,14 @@
+package com.app.affan.config;
+
+import org.springframework.context.annotation.Configuration;
+
+import brave.sampler.Sampler;
+
+@Configuration
+public class AppConfig {
+
+	public Sampler configSampler()
+	{
+		return Sampler.ALWAYS_SAMPLE;
+	}
+}

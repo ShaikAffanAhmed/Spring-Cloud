@@ -1,0 +1,16 @@
+package com.app.affan.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.app.affan.repo.StudentRepository;
+
+public class StudentService {
+
+	@Autowired
+	private StudentRepository repo;
+	
+	public Mono<Student> save(Studetn student)
+	{
+		return 
+	}
+}
